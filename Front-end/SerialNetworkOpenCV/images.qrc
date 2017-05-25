@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>digital-camera-icon.png</file>
+        <file>plantilla-mirilla-real.png</file>
+        <file>icon.png</file>
+    </qresource>
+</RCC>
